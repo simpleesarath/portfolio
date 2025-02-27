@@ -17,7 +17,7 @@ body {
     overflow-x: hidden;
 }
 #head-center{
-    color: var(--primary-dark);
+    color: #2563eb ;
 }
 /* Animated Background */
 .background {
