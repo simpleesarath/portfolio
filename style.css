@@ -16,7 +16,9 @@ body {
     background: var(--background);
     overflow-x: hidden;
 }
-
+#head-center{
+    color: var(--primary-dark);
+}
 /* Animated Background */
 .background {
     position: fixed;
@@ -335,6 +337,9 @@ body {
 .about {
     padding: 8rem 0;
     background: rgba(30, 41, 59, 0.5);
+    margin: 0% 1.5%;
+    border:1px solid black;
+    border-radius: 10px;
 }
 
 /* Contact Section */
